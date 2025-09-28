@@ -1,1 +1,1 @@
-# browser-game
+# phaser-sample-game
