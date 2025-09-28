@@ -1,1 +1,1 @@
-# my-game
+# browser-game
